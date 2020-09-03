@@ -29,4 +29,4 @@ async def on_message(message):
         await message.channel.send(message.author.name + ' has said \"Say Sike Right Now\" ' + str(bruh_counter[str(message.author.id)]) + ' times!');
 
 
-client.run('NzM1MjAyNzkzNjAxNzYxMzQx.Xxc10w.F0iYLqSI_NmkKqbjup45zYvFt_4')
+client.run('TOKEN_HERE')
